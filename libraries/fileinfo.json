@@ -1,0 +1,56 @@
+{
+    "description": "File information for Assignment 2 - Interactive display",
+    "folders": [
+        {
+        "folderNumber": 0,
+        "totalFiles": 15,
+        "file": [
+                "videos/beach_now/vid_1.mp4",
+                "videos/beach_now/vid_2.mp4",
+                "videos/beach_now/vid_3.mp4",
+                "videos/beach_now/vid_4.mp4",
+                "videos/beach_now/vid_5.mp4",
+                "videos/beach_now/vid_6.mp4",
+                "videos/beach_now/vid_7.mp4",
+                "videos/beach_now/vid_8.mp4",
+                "videos/beach_now/vid_9.mp4",
+                "videos/beach_now/vid_10.mp4",
+                "videos/beach_now/vid_11.mp4",
+                "videos/beach_now/vid_12.mp4",
+                "videos/beach_now/vid_13.mp4",
+                "videos/beach_now/vid_14.mp4",
+                "videos/beach_now/vid_15.mp4"
+                ]
+        },
+        {
+        "folderNumber": 1,
+        "totalFiles": 8,
+        "file": [
+                "videos/beach_then/video_1.mp4",
+                "videos/beach_then/video_2.mp4",
+                "videos/beach_then/video_3.mp4",
+                "videos/beach_then/video_4.mp4",
+                "videos/beach_then/video_5.mp4",
+                "videos/beach_then/video_6.mp4",
+                "videos/beach_then/video_7.mp4",
+                "videos/beach_then/video_8.mp4"
+                ]
+        },
+        {
+        "folderNumber": 2,
+        "totalFiles": 2,
+        "file": [
+                "images/beach_now/beach_now_1.jpg",
+                "images/beach_now/beach_now_2.jpg"
+                ]
+        },
+        {
+        "folderNumber": 3,
+        "totalFiles": 2,
+        "file": [
+                "images/beach_then/beach_then_1.jpg",
+                "images/beach_then/beach_then_2.jpg"
+            ]
+        }
+    ]
+}   "totalFiles": 
